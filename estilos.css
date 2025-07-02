@@ -12,5 +12,8 @@ text {
 logo {
     background-color: aliceblue;
     text-align: center;
+table {
+    width: 300%;
+    height: 300%;
 
-    
+}
